@@ -30,7 +30,7 @@ Project background - Be Healthy,a healthtech company, provides a web-based platf
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-This is a MLOps case study for NLP analytics, done by Shu-Ren Chang, Ph.D.
+This case study, authored by Shu-Ren Chang, Ph.D. explores MLOps in the context of NLP analytics. It includes the design of an MLOps architecture tailored for both development and production environments.
 
 ## Contact
 Created by [@changshuren] (mail - changshuren@gmail.com) 
